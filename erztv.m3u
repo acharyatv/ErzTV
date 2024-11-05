@@ -1,0 +1,653 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="Kantipur-TV" tvg-name="Kantipur TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kantipur.jpg" group-title="WebOTT",Kantipur TV
+https://webott.viatv.com.np/v0t1/KantipurTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AP1" tvg-name="AP1" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/AP_1.jpg" group-title="WebOTT",AP1
+https://webott.viatv.com.np/v0t1/AP1576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Himalaya-TV" tvg-name="Himalaya TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Himalaya_TV.jpg" group-title="WebOTT",Himalaya TV
+https://webott.viatv.com.np/v0t1/HimalayaTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Nepal-TV" tvg-name="Nepal TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nepal_TV_HD.jpg" group-title="WebOTT",Nepal TV
+https://webott.viatv.com.np/v0t1/Ntv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV-News" tvg-name="NTV News" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NTV_News_HD.jpg" group-title="WebOTT",NTV News
+https://webott.viatv.com.np/v0t1/NtvNews576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV-Plus" tvg-name="NTV Plus" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NTV_Plus_HD.jpg" group-title="WebOTT",NTV Plus
+https://webott.viatv.com.np/v0t1/NtvPlus576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Prime-TV" tvg-name="Prime TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/PRIME_TIMES_HD.png" group-title="WebOTT",Prime TV
+https://webott.viatv.com.np/v0t1/PrimeTV576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Makalu-TV" tvg-name="Makalu TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Makalu_TV_HD.jpg" group-title="WebOTT",Makalu TV
+https://webott.viatv.com.np/v0t1/MakaluTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Janata-TV" tvg-name="Janata TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Janata_TV.jpg" group-title="WebOTT",Janata TV
+https://webott.viatv.com.np/v0t1/Jantatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mountain-TV" tvg-name="Mountain TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Mountain_TV.jpg" group-title="WebOTT",Mountain TV
+https://webott.viatv.com.np/v0t1/Mountain576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kantipur-Max" tvg-name="Kantipur Max" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kantipur_Max_HD.png" group-title="WebOTT",Kantipur Max
+https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Me-TV" tvg-name="Me TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Me_TV_HD.jpg" group-title="WebOTT",Me TV
+https://webott.viatv.com.np/v0t1/MeTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV-Kohalpur" tvg-name="NTV Kohalpur" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NTV_KOHALPUR_HD.jpg" group-title="WebOTT",NTV Kohalpur
+https://webott.viatv.com.np/v0t1/Kohalpur576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Yoho-TV" tvg-name="Yoho TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Yoho_TV_HD.jpg" group-title="WebOTT",Yoho TV
+https://webott.viatv.com.np/v0t1/YohoTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Business-Plus" tvg-name="Business Plus" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Business_Plus.jpg" group-title="WebOTT",Business Plus
+https://webott.viatv.com.np/v0t1/BusinessPlus576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Image-TV" tvg-name="Image TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Image_Channel.png" group-title="WebOTT",Image TV
+https://webott.viatv.com.np/v0t1/Image576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News-24" tvg-name="News 24" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/News_24.jpg" group-title="WebOTT",News 24
+https://webott.viatv.com.np/v0t1/News24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sagarmatha" tvg-name="Sagarmatha" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sagarmatha.jpg" group-title="WebOTT",Sagarmatha
+https://webott.viatv.com.np/v0t1/Sagarmatha.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC-News" tvg-name="ABC News" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ABC_News.jpg" group-title="WebOTT",ABC News
+https://webott.viatv.com.np/v0t1/ABCNews576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Avenues-TV" tvg-name="Avenues TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Avenues_TV.jpg" group-title="WebOTT",Avenues TV
+https://webott.viatv.com.np/v0t1/Avenews,.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV-Today" tvg-name="TV Today" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TV_Today_HD.jpg" group-title="WebOTT",TV Today
+https://webott.viatv.com.np/v0t1/Tvtoday.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/BTV_BUSINESS.jpg" group-title="WebOTT",BTV
+https://webott.viatv.com.np/v0t1/BTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Naari-TV" tvg-name="Naari TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TV_Filmy.png" group-title="WebOTT",Naari TV
+https://webott.viatv.com.np/v0t1/TvFilmy576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Himshikhar-TV" tvg-name="Himshikhar TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Himshikar.jpg" group-title="WebOTT",Himshikhar TV
+https://webott.viatv.com.np/v0t1/HimshikharTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kasthamandap-Gold" tvg-name="Kasthamandap Gold" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kasthamandap_Gold.png" group-title="WebOTT",Kasthamandap Gold
+https://webott.viatv.com.np/v0t1/SubhayatraTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BM-HD" tvg-name="BM HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/BM_HD.jpg" group-title="WebOTT",BM HD
+https://webott.viatv.com.np/v0t1/BMHD576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bodhi" tvg-name="Bodhi" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bodhi_HD.jpg" group-title="WebOTT",Bodhi
+http://172.16.16.251:8081/viaott/Bodhi576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel-4" tvg-name="Channel 4" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Channel_4_Nepal.jpg" group-title="WebOTT",Channel 4
+https://webott.viatv.com.np/v0t1/Ch4Nepal576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Krishi-TV" tvg-name="Krishi TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Krishi_TV_HD.jpg" group-title="WebOTT",Krishi TV
+https://webott.viatv.com.np/v0t1/KrishiTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kasthamandap-TV" tvg-name="Kasthamandap TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kastapmandap_TV.jpg" group-title="WebOTT",Kasthamandap TV
+https://webott.viatv.com.np/v0t1/KasthamandapTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Indigenous-TV" tvg-name="Indigenous TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Indigenous_Television.jpg" group-title="WebOTT",Indigenous TV
+https://webott.viatv.com.np/v0t1/Indegeneous576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kalika-TV" tvg-name="Kalika TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kalika.jpg" group-title="WebOTT",Kalika TV
+https://webott.viatv.com.np/v0t1/KalikaTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Life-OK-Nepal" tvg-name="Life OK Nepal" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Life_OK_Nepal.jpg" group-title="WebOTT",Life OK Nepal
+https://webott.viatv.com.np/v0t1/LifeOkNepal576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega-TV" tvg-name="Mega TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/MEGA_TV.jpg" group-title="WebOTT",Mega TV
+https://webott.viatv.com.np/v0t1/MegaTV576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Universal-TV" tvg-name="Universal TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Universal_TV_HD.jpg" group-title="WebOTT",Universal TV
+https://webott.viatv.com.np/v0t1/AranikoTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Newa-TV" tvg-name="Newa TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Newa_TV.jpg" group-title="WebOTT",Newa TV
+https://webott.viatv.com.np/v0t1/NewaTV576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bhadgaun-TV" tvg-name="Bhadgaun TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bhadgaun.jpg" group-title="WebOTT",Bhadgaun TV
+https://webott.viatv.com.np/v0t1/Bhadgaun576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Nepal-Mandal-TV" tvg-name="Nepal Mandal TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nepal_Mandal.jpg" group-title="WebOTT",Nepal Mandal TV
+https://webott.viatv.com.np/v0t1/NepalmandalTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Everest-TV" tvg-name="Everest TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Everest_Television_HD.jpg" group-title="WebOTT",Everest TV
+https://webott.viatv.com.np/v0t1/Everest576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mithila-TV" tvg-name="Mithila TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Mithila_TV_HD.jpg" group-title="WebOTT",Mithila TV
+https://webott.viatv.com.np/v0t1/MithilaTV576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kishan-TV" tvg-name="Kishan TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kisan_TV.jpg" group-title="WebOTT",Kishan TV
+https://webott.viatv.com.np/v0t1/KishanTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Paryawaran-TV" tvg-name="Paryawaran TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Paryawaran_TV_HD.jpg" group-title="WebOTT",Paryawaran TV
+https://webott.viatv.com.np/v0t1/ParyawaranTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rajya-TV" tvg-name="Rajya TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Rajya_Television.jpg" group-title="WebOTT",Rajya TV
+https://webott.viatv.com.np/v0t1/Rajya4k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Ace-TV" tvg-name="Ace TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Channel_ACE.jpg" group-title="WebOTT",Ace TV
+https://webott.viatv.com.np/v0t1/ChaAce576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News-Nepal-TV" tvg-name="News Nepal TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/News_Nepal.jpg" group-title="WebOTT",News Nepal TV
+https://webott.viatv.com.np/v0t1/NewsNepTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Araniko-TV" tvg-name="Araniko TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Araniko_TV.png" group-title="WebOTT",Araniko TV
+https://webott.viatv.com.np/v0t1/XrayTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Education-TV" tvg-name="Education TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Education_TV.jpg" group-title="WebOTT",Education TV
+https://webott.viatv.com.np/v0t1/EduTVNepal576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Capital-TV" tvg-name="Capital TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Capital_Tv_HD.jpg" group-title="WebOTT",Capital TV
+https://webott.viatv.com.np/v0t1/CapitalTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mukundasen-TV" tvg-name="Mukundasen TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Mukundasen_HD.jpg" group-title="WebOTT",Mukundasen TV
+https://webott.viatv.com.np/v0t1/Mukundasen.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="National-Gold-TV" tvg-name="National Gold TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/National_Gold.jpg" group-title="WebOTT",National Gold TV
+https://webott.viatv.com.np/v0t1/NationalGoldTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Global-TV" tvg-name="Global TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Global_Television_HD.jpg" group-title="WebOTT",Global TV
+https://webott.viatv.com.np/v0t1/GlobalTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Janasanchar-TV" tvg-name="Janasanchar TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Jansanchar_Television_HD.jpg" group-title="WebOTT",Janasanchar TV
+https://webott.viatv.com.np/v0t1/JanSanchar576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bagmati-TV" tvg-name="Bagmati TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bagmati_TV_HD.jpg" group-title="WebOTT",Bagmati TV
+https://webott.viatv.com.np/v0t1/BagmatiTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Appan-TV" tvg-name="Appan TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Appan_TV.jpg" group-title="WebOTT",Appan TV
+https://webott.viatv.com.np/v0t1/AppanTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee-Nepal-TV" tvg-name="Zee Nepal TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_Nepal_TV.jpg" group-title="WebOTT",Zee Nepal TV
+https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sajha-TV" tvg-name="Sajha TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sajha_TV.png" group-title="WebOTT",Sajha TV
+https://webott.viatv.com.np/v0t1/SajhaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Palika-TV" tvg-name="Palika TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Moon_Light_HD.png" group-title="WebOTT",Palika TV
+https://webott.viatv.com.np/v0t1/MoonLight576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Buddha-TV" tvg-name="Buddha TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Buddha_TV.jpg" group-title="WebOTT",Buddha TV
+https://webott.viatv.com.np/v0t1/BuddhaTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lumbini-TV" tvg-name="Lumbini TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Lumbini_TV_HD.jpg" group-title="WebOTT",Lumbini TV
+https://webott.viatv.com.np/v0t1/LumbiniTV576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Buddha-Aawaz" tvg-name="Buddha Aawaz" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Buddha_Awaaz_TV_HD.jpg" group-title="WebOTT",Buddha Aawaz
+https://webott.viatv.com.np/v0t1/BuddhaAawaz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Suryodaya-TV" tvg-name="Suryodaya TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Suryadaya_TV_HD.jpg" group-title="WebOTT",Suryodaya TV
+https://webott.viatv.com.np/v0t1/SuryadayaTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Aam-Nepali-TV" tvg-name="Aam Nepali TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Aamnepali_TV_HD.jpg" group-title="WebOTT",Aam Nepali TV
+https://webott.viatv.com.np/v0t1/AamNepaliTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GNN-HD-TV" tvg-name="GNN HD TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/GNN_HD.png" group-title="WebOTT",GNN HD TV
+https://webott.viatv.com.np/v0t1/PrabhuTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Yes-TV" tvg-name="Yes TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/YES_TV.jpg" group-title="WebOTT",Yes TV
+https://webott.viatv.com.np/v0t1/YesTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Gorkha-TV" tvg-name="Gorkha TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Gorkha_TV_HD.jpg" group-title="WebOTT",Gorkha TV
+https://webott.viatv.com.np/v0t1/GorkhaTv576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Indreni-TV" tvg-name="Indreni TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Indreni_TV.jpg" group-title="WebOTT",Indreni TV
+https://webott.viatv.com.np/v0t1/IndreniTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Ray-TV" tvg-name="Ray TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Ray_TV.jpg" group-title="WebOTT",Ray TV
+https://webott.viatv.com.np/v0t1/RayTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Tilottama-TV" tvg-name="Tilottama TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Tilottama_TV_HD.jpg" group-title="WebOTT",Tilottama TV
+https://webott.viatv.com.np/v0t1/TilotamaTV,stream/playlist.m3u8
+#EXTINF:-1 tvg-id="City-1-HD" tvg-name="City 1 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CITY_ONE_HD.jpg" group-title="WebOTT",City 1 HD
+https://webott.viatv.com.np/v0t1/City1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="7-Star-TV" tvg-name="7 Star TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/7_Star_TV.png" group-title="WebOTT",7 Star TV
+https://webott.viatv.com.np/v0t1/7star.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Panchali-TV" tvg-name="Panchali TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Panchali_TV.jpg" group-title="WebOTT",Panchali TV
+https://webott.viatv.com.np/v0t1/PanchaliTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Pokhara-TV" tvg-name="Pokhara TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Pokhara_TV.jpg" group-title="WebOTT",Pokhara TV
+https://webott.viatv.com.np/v0t1/Pokhara.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Space-4K" tvg-name="Space 4K" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Space_4K.png" group-title="WebOTT",Space 4K
+https://webott.viatv.com.np/v0t1/viaSpace4k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Nepal-Net-TV" tvg-name="Nepal Net TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nepal_Network_TV.png" group-title="WebOTT",Nepal Net TV
+https://webott.viatv.com.np/v0t1/NepalNetTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Divya-TV" tvg-name="Divya TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Divya_Darshan_TV.jpg" group-title="WebOTT",Divya TV
+https://webott.viatv.com.np/viatv/viaDivya.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Public-TV" tvg-name="Public TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Pubic_TV.jpg" group-title="WebOTT",Public TV
+https://webott.viatv.com.np/v0t1/PublicTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Satya-TV" tvg-name="Satya TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Satya_thatya.png" group-title="WebOTT",Satya TV
+https://webott.viatv.com.np/v0t1/SatyaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Koshi-TV" tvg-name="Koshi TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Koshi_4K.png" group-title="WebOTT",Koshi TV
+https://webott.viatv.com.np/v0t1/KoshiTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sanghu-TV" tvg-name="Sanghu TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sanghu_Tv_HD.jpg" group-title="WebOTT",Sanghu TV
+http://110.44.127.109:8081/viatv/viaSanghu.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Khwopa-TV" tvg-name="Khwopa TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Khwopa_Tv.png" group-title="WebOTT",Khwopa TV
+https://webott.viatv.com.np/v0t1/Khwopa/playlist.m3u8
+#EXTINF:-1 tvg-id="Prithivi-TV" tvg-name="Prithivi TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Prithivi_TV.jpg" group-title="WebOTT",Prithivi TV
+https://webott.viatv.com.np/v0t1/PrithiviTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Al-Jazeera-HD" tvg-name="Al Jazeera HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Al_Jazeera_HD.jpg" group-title="WebOTT",Al Jazeera HD
+https://webott.viatv.com.np/v0t1/Aljazeera576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT-World" tvg-name="TRT World" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TRT_WORLD_HD.jpg" group-title="WebOTT",TRT World
+https://webott.viatv.com.np/v0t1/TRTworld.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/France_24_English_HD.jpg" group-title="WebOTT",France24
+https://webott.viatv.com.np/v0t1/France576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DD-Sports" tvg-name="DD Sports" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DD_SPORTS.jpg" group-title="WebOTT",DD Sports
+https://webott.viatv.com.np/v0t1/DDSportsTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Action" tvg-name="Action" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ASport.png" group-title="WebOTT",Action
+https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN-Documentary" tvg-name="CGTN Documentary" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CGTN_Documentry_HD.jpg" group-title="WebOTT",CGTN Documentary
+https://webott.viatv.com.np/v0t1/CGTND576.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Divya-Darshan" tvg-name="Divya Darshan" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DIVYA_DARSHAN_HD.jpg" group-title="WebOTT",Divya Darshan
+https://webott.viatv.com.np/v0t1/DibyaDarsan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Deep-TV" tvg-name="Deep TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Deep_TV_HD.jpg" group-title="WebOTT",Deep TV
+https://webott.viatv.com.np/v0t1/DeepTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Aastha-Nepal" tvg-name="Aastha Nepal" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Aastha_Nepal.png" group-title="WebOTT",Aastha Nepal
+https://webott.viatv.com.np/v0t1/AasthaNepal/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentHD" tvg-name="Sony Entertainment HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Entertainment_HD.png" group-title="Entertainment",Sony Entertainment HD
+http://110.44.127.109:8081/viatv/viasonyhd/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsHD" tvg-name="Colors HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Colors_HD.jpg" group-title="Entertainment",Colors HD
+http://110.44.127.109:8081/viatv/viacolors/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVHD" tvg-name="Zee TV  HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_TV_HD.jpg" group-title="Entertainment",Zee TV  HD
+http://110.44.127.109:8081/viatv/viazeetvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="StarPlusHD" tvg-name="Star Plus HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Plus_HD.jpg" group-title="Entertainment",Star Plus HD
+http://110.44.127.109:8081/viatv/viastarplushhd/playlist.m3u8
+#EXTINF:-1 tvg-id="&TVHD" tvg-name="& TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/&_TV_HD.jpg" group-title="Entertainment",& TV HD
+http://110.44.127.109:8081/viatv/viaandtv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarBharatHD" tvg-name="Star Bharat HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Bharat_HD.jpg" group-title="Entertainment",Star Bharat HD
+http://110.44.127.109:8081/viatv/vialifeokhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySabHD" tvg-name="Sony Sab HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD
+http://110.44.127.109:8081/viatv/viasonysabhd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCafeHD" tvg-name="Zee Cafe HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_Cafe_HD.jpg" group-title="Entertainment",Zee Cafe HD
+http://110.44.127.109:8081/viatv/viazeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-id="COLORSINFINITYHD" tvg-name="COLORS INFINITY HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/COLORS_INFINITY_HD.jpg" group-title="Entertainment",COLORS INFINITY HD
+http://110.44.127.109:8081/viatv/viainfinityhd/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxLifeHD" tvg-name="Fox Life HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Fox_Life_HD.jpg" group-title="Entertainment",Fox Life HD
+http://110.44.127.109:8081/viatv/viafoxlifehd/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="Comedy Central" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Comedy_Central.jpg" group-title="Entertainment",Comedy Central
+http://110.44.127.109:8081/viatv/viacomedycentralhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyPal" tvg-name="Sony Pal" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Pal.png" group-title="Entertainment",Sony Pal
+http://110.44.127.109:8081/viatv/viasonypal/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEEANMOL" tvg-name="ZEE ANMOL" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ZEE_ANMOL.jpg" group-title="Entertainment",ZEE ANMOL
+http://110.44.127.109:8081/viatv/viazeeanmol/playlist.m3u8
+#EXTINF:-1 tvg-id="DDBharti" tvg-name="DD Bharti" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DD_Bharti.jpg" group-title="Entertainment",DD Bharti
+http://110.44.127.109:8081/viatv/viaDDBharati/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsRishtey" tvg-name="Colors Rishtey" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Colors_Rishtey.jpg" group-title="Entertainment",Colors Rishtey
+http://110.44.127.109:8081/viatv/viacolorsristey.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills" tvg-name="Star Gold Thrills" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Gold_Thrills.png" group-title="Entertainment",Star Gold Thrills
+http://110.44.127.109:8081/viatv/StarThrills/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurTVHD" tvg-name="Kantipur TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kantipur.jpg" group-title="Nepali",Kantipur TV HD
+http://110.44.127.109:8081/viatv/viakantipuriptv/playlist.m3u8
+#EXTINF:-1 tvg-id="AP1HD" tvg-name="AP1 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/AP_1.jpg" group-title="Nepali",AP1 HD
+http://110.44.127.109:8081/viatv/viaap1hd/playlist.m3u8
+#EXTINF:-1 tvg-id="HimalayaTVHD" tvg-name="Himalaya TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Himalaya_TV.jpg" group-title="Nepali",Himalaya TV HD
+http://110.44.127.109:8081/viatv/viahimalaya/playlist.m3u8
+#EXTINF:-1 tvg-id="NepalTVHD" tvg-name="Nepal TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nepal_TV_HD.jpg" group-title="Nepali",Nepal TV HD
+http://110.44.127.109:8081/viatv/viantvnepal/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVNewsHD" tvg-name="NTV News HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NTV_News_HD.jpg" group-title="Nepali",NTV News HD
+http://110.44.127.109:8081/viatv/viantvnews/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVPlusHD" tvg-name="NTV Plus HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NTV_Plus_HD.jpg" group-title="Nepali",NTV Plus HD
+http://110.44.127.109:8081/viatv/viantvplus/playlist.m3u8
+#EXTINF:-1 tvg-id="PRIMETIMESHD" tvg-name="PRIME TIMES HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/PRIME_TIMES_HD.png" group-title="Nepali",PRIME TIMES HD
+http://110.44.127.109:8081/viatv/viaprimetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MakaluTVHD" tvg-name="Makalu TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Makalu_TV_HD.jpg" group-title="Nepali",Makalu TV HD
+http://110.44.127.109:8081/viatv/viaMakaluTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JanataTVHD" tvg-name="Janata TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Janata_TV.jpg" group-title="Nepali",Janata TV HD
+http://110.44.127.109:8081/viatv/viajantatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MountainTV" tvg-name="Mountain TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Mountain_TV.jpg" group-title="Nepali",Mountain TV
+http://110.44.127.109:8081/viatv/viamountain/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurMaxHD" tvg-name="Kantipur Max HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kantipur_Max_HD.png" group-title="Nepali",Kantipur Max HD
+http://110.44.127.109:8081/livesports/KantiCineplex/playlist.m3u8
+#EXTINF:-1 tvg-id="MeTVHD" tvg-name="Me TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Me_TV_HD.jpg" group-title="Nepali",Me TV HD
+http://110.44.127.109:8081/viatv/viaMeTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVItahariHD" tvg-name="NTV Itahari HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NTV_Itahari_HD.jpg" group-title="Nepali",NTV Itahari HD
+http://110.44.127.109:8081/viatv/viaNTVitahari.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVKOHALPURHD" tvg-name="NTV KOHALPUR HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NTV_KOHALPUR_HD.jpg" group-title="Nepali",NTV KOHALPUR HD
+http://110.44.127.109:8081/viatv/viantvkohalpur/playlist.m3u8
+#EXTINF:-1 tvg-id="YohoTVHD" tvg-name="Yoho TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Yoho_TV_HD.jpg" group-title="Nepali",Yoho TV HD
+http://110.44.127.109:8081/viatv/viayohotv/playlist.m3u8
+#EXTINF:-1 tvg-id="BusinessPlus" tvg-name="Business Plus" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Business_Plus.jpg" group-title="Nepali",Business Plus
+http://110.44.127.109:8081/viatv/viabusinessplus/playlist.m3u8
+#EXTINF:-1 tvg-id="ImageChannel" tvg-name="Image Channel" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Image_Channel.png" group-title="Nepali",Image Channel
+http://110.44.127.109:8081/viatv/viaimage/playlist.m3u8
+#EXTINF:-1 tvg-id="News24" tvg-name="News 24" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/News_24.jpg" group-title="Nepali",News 24
+http://110.44.127.109:8081/viatv/viaNews24/playlist.m3u8
+#EXTINF:-1 tvg-id="Sagarmatha" tvg-name="Sagarmatha" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sagarmatha.jpg" group-title="Nepali",Sagarmatha
+http://110.44.127.109:8081/viatv/viasagar/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABC News" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ABC_News.jpg" group-title="Nepali",ABC News
+http://110.44.127.109:8081/viatv/viaabc/playlist.m3u8
+#EXTINF:-1 tvg-id="AvenuesTV" tvg-name="Avenues TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Avenues_TV.jpg" group-title="Nepali",Avenues TV
+http://110.44.127.109:8081/viatv/viaavenews/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTodayHD" tvg-name="TV Today HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TV_Today_HD.jpg" group-title="Nepali",TV Today HD
+http://110.44.127.109:8081/viatv/viatvtoday/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVBUSINESS" tvg-name="BTV BUSINESS" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/BTV_BUSINESS.jpg" group-title="Nepali",BTV BUSINESS
+http://110.44.127.109:8081/viatv/viabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NariHD" tvg-name="Nari HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TV_Filmy.png" group-title="Nepali",Nari HD
+http://110.44.127.109:8081/viatv/viatvfilmy/playlist.m3u8
+#EXTINF:-1 tvg-id="Himshikar" tvg-name="Himshikar" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Himshikar.jpg" group-title="Nepali",Himshikar
+http://110.44.127.109:8081/viatv/viaHimshikharTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KasthamandapGold" tvg-name="Kasthamandap Gold" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kasthamandap_Gold.png" group-title="Nepali",Kasthamandap Gold
+http://110.44.127.109:8081/viatv/viaKaruwaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BMHD" tvg-name="BM HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/BM_HD.jpg" group-title="Nepali",BM HD
+http://110.44.127.109:8081/viatv/viabm1500/playlist.m3u8
+#EXTINF:-1 tvg-id="BodhiHD" tvg-name="Bodhi HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bodhi_HD.jpg" group-title="Nepali",Bodhi HD
+http://110.44.127.109:8081/viatv/viabodhi/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel4Nepal" tvg-name="Channel 4 Nepal" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Channel_4_Nepal.jpg" group-title="Nepali",Channel 4 Nepal
+http://110.44.127.109:8081/viatv/viachfour/playlist.m3u8
+#EXTINF:-1 tvg-id="KrishiTVHD" tvg-name="Krishi TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Krishi_TV_HD.jpg" group-title="Nepali",Krishi TV HD
+http://110.44.127.109:8081/viatv/viakrishifallback/playlist.m3u8
+#EXTINF:-1 tvg-id="KasthamandapTV" tvg-name="Kasthamandap TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kastapmandap_TV.jpg" group-title="Nepali",Kasthamandap TV
+http://110.44.127.109:8081/viatv/viakasthmandap/playlist.m3u8
+#EXTINF:-1 tvg-id="IndigenousTelevision" tvg-name="Indigenous Television" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Indigenous_Television.jpg" group-title="Nepali",Indigenous Television
+http://110.44.127.109:8081/viatv/viaindigenousfallback/playlist.m3u8
+#EXTINF:-1 tvg-id="KalikaTVHD" tvg-name="Kalika TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kalika.jpg" group-title="Nepali",Kalika TV HD
+http://110.44.127.109:8081/viatv/viakalikatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeOKNepalHD" tvg-name="Life OK Nepal HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Life_OK_Nepal.jpg" group-title="Nepali",Life OK Nepal HD
+http://110.44.127.109:8081/viatv/vialifeoknepal/playlist.m3u8
+#EXTINF:-1 tvg-id="MEGATV" tvg-name="MEGA TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/MEGA_TV.jpg" group-title="Nepali",MEGA TV
+http://110.44.127.109:8081/viatv/viamegafallback/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversalTVHD" tvg-name="Universal TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Universal_TV_HD.jpg" group-title="Nepali",Universal TV HD
+http://110.44.127.109:8081/viatv/viaaranikotv/playlist.m3u8
+#EXTINF:-1 tvg-id="NewaTV" tvg-name="Newa TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Newa_TV.jpg" group-title="Nepali",Newa TV
+http://110.44.127.109:8081/viatv/viaNewaTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bhadgaun" tvg-name="Bhadgaun" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bhadgaun.jpg" group-title="Nepali",Bhadgaun
+http://110.44.127.109:8081/viatv/viabhadgaun/playlist.m3u8
+#EXTINF:-1 tvg-id="NepalMandal" tvg-name="Nepal Mandal" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nepal_Mandal.jpg" group-title="Nepali",Nepal Mandal
+http://110.44.127.109:8081/viatv/vianepalmandal/playlist.m3u8
+#EXTINF:-1 tvg-id="EverestTelevisionHD" tvg-name="Everest Television HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Everest_Television_HD.jpg" group-title="Nepali",Everest Television HD
+http://110.44.127.109:8081/viatv/viaosnnepal/playlist.m3u8
+#EXTINF:-1 tvg-id="MithilaTVHD" tvg-name="Mithila TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Mithila_TV_HD.jpg" group-title="Nepali",Mithila TV HD
+http://110.44.127.109:8081/viatv/viamithilatv/playlist.m3u8
+#EXTINF:-1 tvg-id="KisanTVHD" tvg-name="Kisan TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kisan_TV.jpg" group-title="Nepali",Kisan TV HD
+http://110.44.127.109:8081/viatv/viakisantv/playlist.m3u8
+#EXTINF:-1 tvg-id="ParyawaranTVHD" tvg-name="Paryawaran TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Paryawaran_TV_HD.jpg" group-title="Nepali",Paryawaran TV HD
+http://110.44.127.109:8081/viatv/viaparyawarantv/playlist.m3u8
+#EXTINF:-1 tvg-id="RajyaTelevision" tvg-name="Rajya Television" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Rajya_Television.jpg" group-title="Nepali",Rajya Television
+http://110.44.127.109:8081/viatv/viarajya4k/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelACE" tvg-name="Channel ACE" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Channel_ACE.jpg" group-title="Nepali",Channel ACE
+http://110.44.127.109:8081/viatv/viachannelace/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsNepal" tvg-name="News Nepal" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/News_Nepal.jpg" group-title="Nepali",News Nepal
+http://110.44.127.109:8081/viatv/vianewsnepal/playlist.m3u8
+#EXTINF:-1 tvg-id="AranikoTV" tvg-name="Araniko TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Araniko_TV.png" group-title="Nepali",Araniko TV
+http://110.44.127.109:8081/viatv/viaXrayTvHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EducationTV" tvg-name="Education TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Education_TV.jpg" group-title="Nepali",Education TV
+http://110.44.127.109:8081/viatv/viaedutv/playlist.m3u8
+#EXTINF:-1 tvg-id="CapitalTvHD" tvg-name="Capital Tv HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Capital_Tv_HD.jpg" group-title="Nepali",Capital Tv HD
+http://110.44.127.109:8081/viatv/viaCapitalTvHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MukundasenHD" tvg-name="Mukundasen HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Mukundasen_HD.jpg" group-title="Nepali",Mukundasen HD
+http://110.44.127.109:8081/viatv/viaMukundasen.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGold" tvg-name="National Gold" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/National_Gold.jpg" group-title="Nepali",National Gold
+http://110.44.127.109:8081/viatv/viaNationalGoldTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalTelevisionHD" tvg-name="Global Television HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Global_Television_HD.jpg" group-title="Nepali",Global Television HD
+http://110.44.127.109:8081/viatv/viaGlobalTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JansancharTelevisionHD" tvg-name="Jansanchar Television HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Jansanchar_Television_HD.jpg" group-title="Nepali",Jansanchar Television HD
+http://110.44.127.109:8081/viatv/viaJanaSancharHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BagmatiTVHD" tvg-name="Bagmati TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bagmati_TV_HD.jpg" group-title="Nepali",Bagmati TV HD
+http://110.44.127.109:8081/viatv/viaBagmatiTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AppanTV" tvg-name="Appan TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Appan_TV.jpg" group-title="Nepali",Appan TV
+http://110.44.127.109:8081/viatv/viaappanfallback/playlist.m3u8
+#EXTINF:-1 tvg-id="JanakpurTV" tvg-name="Janakpur TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Janakpur.png" group-title="Nepali",Janakpur TV
+http://110.44.127.109:8081/viatv/viajanakpurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeNepalTV" tvg-name="Zee Nepal TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_Nepal_TV.jpg" group-title="Nepali",Zee Nepal TV
+http://110.44.127.109:8081/viatv/viaZeeNepalTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TimesTVHD" tvg-name="Times TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Times_TV_HD.png" group-title="Nepali",Times TV HD
+http://110.44.127.109:8081/viatv/viatimesfallback/playlist.m3u8
+#EXTINF:-1 tvg-id="SajhaTV" tvg-name="Sajha TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sajha_TV.png" group-title="Nepali",Sajha TV
+http://110.44.127.109:8081/viatv/viaSajhaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PalikaTelevisionHD" tvg-name="Palika Television  HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Palika_Television_HD.png" group-title="Nepali",Palika Television  HD
+http://110.44.127.109:8081/viatv/viaMoonLightHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BuddhaTVHD" tvg-name="Buddha TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Buddha_TV.jpg" group-title="Nepali",Buddha TV HD
+http://110.44.127.109:8081/viatv/viabuddhatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LumbiniTVHD" tvg-name="Lumbini TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Lumbini_TV_HD.jpg" group-title="Nepali",Lumbini TV HD
+http://110.44.127.109:8081/viatv/viaLumbiniTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BuddhaAwaazTVHD" tvg-name="Buddha Awaaz TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Buddha_Awaaz_TV_HD.jpg" group-title="Nepali",Buddha Awaaz TV HD
+http://110.44.127.109:8081/viatv/viaBuddhaAawaz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SuryadayaTVHD" tvg-name="Suryadaya TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Suryadaya_TV_HD.jpg" group-title="Nepali",Suryadaya TV HD
+http://110.44.127.109:8081/viatv/viaSuryadayaTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AamnepaliTVHD" tvg-name="Aamnepali TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Aamnepali_TV_HD.jpg" group-title="Nepali",Aamnepali TV HD
+http://110.44.127.109:8081/viatv/viaAamNepaliTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GNNHD" tvg-name="GNN HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/GNN_HD.png" group-title="Nepali",GNN HD
+http://110.44.127.109:8081/viatv/viaPrabhuTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="A1TV" tvg-name="A1 TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/A1_TV.jpg" group-title="Nepali",A1 TV
+http://110.44.127.109:8081/viatv/viaA1Tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SaptarangiTV" tvg-name="Saptarangi TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Saptarangi_TV.jpg" group-title="Nepali",Saptarangi TV
+http://110.44.127.109:8081/viatv/viaSaptarangiTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="YESTV" tvg-name="YES TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/YES_TV.jpg" group-title="Nepali",YES TV
+http://110.44.127.109:8081/viatv/viayestv_high/playlist.m3u8
+#EXTINF:-1 tvg-id="GorkhaTVHD" tvg-name="Gorkha TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Gorkha_TV_HD.jpg" group-title="Nepali",Gorkha TV HD
+http://110.44.127.109:8081/viatv/viaGorkhaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="IndreniTV" tvg-name="Indreni TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Indreni_TV.jpg" group-title="Nepali",Indreni TV
+http://110.44.127.109:8081/viatv/viaIndreniTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PrithiviTVHD" tvg-name="Prithivi TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Prithivi_TV.jpg" group-title="Nepali",Prithivi TV HD
+http://110.44.127.109:8081/viatv/viaPrithiviTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RayTV" tvg-name="Ray TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Ray_TV.jpg" group-title="Nepali",Ray TV
+http://110.44.127.109:8081/viatv/viaRayTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TilottamaTVHD" tvg-name="Tilottama TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Tilottama_TV_HD.jpg" group-title="Nepali",Tilottama TV HD
+http://110.44.127.109:8081/viatv/viaTilotamaTV,stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OmkarTelevisionHD" tvg-name="Omkar Television HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Omkar_Television.jpg" group-title="Nepali",Omkar Television HD
+http://110.44.127.109:8081/viatv/viaomkartv/playlist.m3u8
+#EXTINF:-1 tvg-id="PrismaTV" tvg-name="Prisma TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Prisma_TV.jpg" group-title="Nepali",Prisma TV
+http://110.44.127.109:8081/viatv/viaPrismaTvHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CITYONEHD" tvg-name="CITY ONE HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CITY_ONE_HD.jpg" group-title="Nepali",CITY ONE HD
+http://110.44.127.109:8081/viatv/viaCity1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="7StarTV" tvg-name="7 Star TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/7_Star_TV.png" group-title="Nepali",7 Star TV
+http://110.44.127.109:8081/viatv/via7star.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PanchaliTVHD" tvg-name="Panchali TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Panchali_TV.jpg" group-title="Nepali",Panchali TV HD
+http://110.44.127.109:8081/viatv/viaPanchaliTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PokharaTV" tvg-name="Pokhara TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Pokhara_TV.jpg" group-title="Nepali",Pokhara TV
+http://110.44.127.109:8081/viatv/viaPokhara.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Maulakalika" tvg-name="Maulakalika" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Maulakalika.png" group-title="Nepali",Maulakalika
+http://110.44.127.109:8081/viatv/ViaMaulaKalika.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Space4K" tvg-name="Space 4K" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Space_4K.png" group-title="Nepali",Space 4K
+http://110.44.127.109:8081/viatv/viaSpace4k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NepalNetworkTV" tvg-name="Nepal Network TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nepal_Network_TV.png" group-title="Nepali",Nepal Network TV
+http://110.44.127.109:8081/viatv/viaNepalNetTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EarthNews" tvg-name="Earth News" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Earth_News.png" group-title="Nepali",Earth News
+http://110.44.127.109:8081/viatv/viaEarthNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV" tvg-name="Divya Darshan TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Divya_Darshan_TV.jpg" group-title="Nepali",Divya Darshan TV
+http://110.44.127.109:8081/viatv/viaDivya.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PublicTV" tvg-name="Public TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Pubic_TV.jpg" group-title="Nepali",Public TV
+http://110.44.127.109:8081/viatv/viaPublicTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NepaTV" tvg-name="Nepa TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nepa_TV.jpg" group-title="Nepali",Nepa TV
+http://110.44.127.109:8081/viatv/viaNepa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Plus14kTV" tvg-name="Plus 1 4k TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Plus_1_4k_TV.jpg" group-title="Nepali",Plus 1 4k TV
+http://110.44.127.109:8081/viatv/viaPlusOne.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SatyaTathya" tvg-name="Satya Tathya" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Satya_thatya.png" group-title="Nepali",Satya Tathya
+http://110.44.127.109:8081/viatv/viaSatyaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Koshi4K" tvg-name="Koshi 4K" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Koshi_4K.png" group-title="Nepali",Koshi 4K
+http://110.44.127.109:8081/viatv/viaKoshiTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RodhiTV" tvg-name="Rodhi TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Rodhi_TV.jpg" group-title="Nepali",Rodhi TV
+http://110.44.127.109:8081/viatv/viaRodhi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SanghuTvHD" tvg-name="Sanghu Tv HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sanghu_Tv_HD.jpg" group-title="Nepali",Sanghu Tv HD
+http://110.44.127.109:8081/viatv/viaSanghu.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SambridhaTVHD" tvg-name="Sambridha TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sambridha_TV_HD.png" group-title="Nepali",Sambridha TV HD
+http://110.44.127.109:8081/viatv/viaSambridhi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KhwopaTv" tvg-name="Khwopa Tv" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Khwopa_Tv.png" group-title="Nepali",Khwopa Tv
+http://110.44.127.109:8081/viatv/viaKhwopa/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1HD" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Sports_Ten_1_HD.png" group-title="Sports",Sony Sports Ten 1 HD
+http://110.44.127.109:8081/viatv/viaten1hd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2HD" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Sports_Ten_2_HD.png" group-title="Sports",Sony Sports Ten 2 HD
+http://110.44.127.109:8081/viatv/viaten2hd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen3HD" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Sports_Ten_3_HD.png" group-title="Sports",Sony Sports Ten 3 HD
+http://110.44.127.109:8081/viatv/viaten3hd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5HD" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Sports_Ten_5_HD.png" group-title="Sports",Sony Sports Ten 5 HD
+http://110.44.127.109:8081/livesports/SonyTen5HD/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-name="Star Sports 1 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Sport_1_HD.jpg" group-title="Sports",Star Sports 1 HD
+http://110.44.127.109:8081/livesports/StarSpo1Hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports2HD" tvg-name="Star Sports 2 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Sports_2_HD.jpg" group-title="Sports",Star Sports 2 HD
+http://110.44.127.109:8081/viatv/viastarsports2hd/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports1HDHindi" tvg-name="Star Sports 1 HD Hindi" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Sports_1_HD_Hindi.jpg" group-title="Sports",Star Sports 1 HD Hindi
+http://110.44.127.109:8081/viatv/viaStarSp1HinDib.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Sports_Select_1_HD.jpg" group-title="Sports",Star Sports Select 1 HD
+http://110.44.127.109:8081/viatv/viaselecthd/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Sports_Select_2_HD.jpg" group-title="Sports",Star Sports Select 2 HD
+http://110.44.127.109:8081/viatv/viaselecthd2/playlist.m3u8
+#EXTINF:-1 tvg-id="DDSPORTS" tvg-name="DD SPORTS" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DD_SPORTS.jpg" group-title="Sports",DD SPORTS
+http://110.44.127.109:8081/viatv/viaddsports/playlist.m3u8
+#EXTINF:-1 tvg-id="ActionSportsHD1" tvg-name="Action Sports HD 1" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Action_Sports_HD.jpg" group-title="Sports",Action Sports HD 1
+http://110.44.127.109:8081/viatv/viaactionsportshd/playlist.m3u8
+#EXTINF:-1 tvg-id="ASport" tvg-name="ASport" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ASport.png" group-title="Sports",ASport
+http://110.44.127.109:8081/viatv/viaASportsHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PTVSportsHD" tvg-name="PTV Sports HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/PTV_Sports_HD.jpeg" group-title="Sports",PTV Sports HD
+http://110.44.127.109:8081/viatv/viaPtvSport/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport18HD" tvg-name="Sport 18 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sport_18_HD.png" group-title="Sports",Sport 18 HD
+http://110.44.127.109:8081/viatv/Sport18/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroSportsHD" tvg-name="Euro Sports HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Euro_Sports_HD.png" group-title="Sports",Euro Sports HD
+http://110.44.127.109:8081/viatv/EuroSport/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraHD" tvg-name="Al Jazeera HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Al_Jazeera_HD.jpg" group-title="News",Al Jazeera HD
+http://110.44.127.109:8081/viatv/viaaljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWORLDHD" tvg-name="TRT WORLD HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TRT_WORLD_HD.jpg" group-title="News",TRT WORLD HD
+http://110.44.127.109:8081/viatv/viatrtworldhd/playlist.m3u8
+#EXTINF:-1 tvg-id="France24EnglishHD" tvg-name="France 24 English HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/France_24_English_HD.jpg" group-title="News",France 24 English HD
+http://110.44.127.109:8081/viatv/viafrance24/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelNewsAsia" tvg-name="Channel News Asia" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Channel_News_Asia.jpg" group-title="News",Channel News Asia
+http://110.44.127.109:8081/viatv/vianewsasia/playlist.m3u8
+#EXTINF:-1 tvg-id="RTEnglishHD" tvg-name="RT English HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/RT_English_HD.jpg" group-title="News",RT English HD
+http://110.44.127.109:8081/viatv/viart/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNHD" tvg-name="CGTN HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CGTN_HD.png" group-title="News",CGTN HD
+http://110.44.127.109:8081/viatv/viacgtnhd/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/BBC_News.jpg" group-title="News",BBC News
+http://110.44.127.109:8081/viatv/viabbcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CNN.jpg" group-title="News",CNN
+http://110.44.127.109:8081/viatv/viacnn/playlist.m3u8
+#EXTINF:-1 tvg-id="EURONEWSENGLISH" tvg-name="EURO NEWS ENGLISH" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Euro_News.png" group-title="News",EURO NEWS ENGLISH
+http://110.44.127.109:8081/viatv/viaeuro/playlist.m3u8
+#EXTINF:-1 tvg-id="Aajtak" tvg-name="Aajtak" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Aajtak.png" group-title="News",Aajtak
+http://110.44.127.109:8081/viatv/viaaajtak/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeNews" tvg-name="Zee News" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_News.jpg" group-title="News",Zee News
+http://110.44.127.109:8081/viatv/viazeenews/playlist.m3u8
+#EXTINF:-1 tvg-id="News18" tvg-name="News 18" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/News_18.jpg" group-title="News",News 18
+http://110.44.127.109:8081/viatv/viaNews18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DDNews" tvg-name="DD News" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DD_News.png" group-title="News",DD News
+http://110.44.127.109:8081/viatv/DDNewsHD/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia" tvg-name="NDTV India" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NDTV_India.jpg" group-title="News",NDTV India
+http://110.44.127.109:8081/viatv/viandtvindia/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBihar" tvg-name="Zee Bihar" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_Bihar.png" group-title="News",Zee Bihar
+http://110.44.127.109:8081/viatv/ZeeBihar/playlist.m3u8
+#EXTINF:-1 tvg-id="CBeebiesHD" tvg-name="CBeebies HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CBeebies_HD.jpg" group-title="Kids",CBeebies HD
+http://110.44.127.109:8081/viatv/viacb/playlist.m3u8
+#EXTINF:-1 tvg-id="NickHD+" tvg-name="Nick HD+" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nick_HD+.png" group-title="Kids",Nick HD+
+http://110.44.127.109:8081/viatv/vianickhd/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Cartoon_Network.png" group-title="Kids",Cartoon Network
+http://110.44.127.109:8081/viatv/viacn/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJrSD" tvg-name="Nick Jr SD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nick_Jr_SD.jpg" group-title="Kids",Nick Jr SD
+http://110.44.127.109:8081/viatv/vianickjr/playlist.m3u8
+#EXTINF:-1 tvg-id="POGO" tvg-name="POGO" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/POGO.png" group-title="Kids",POGO
+http://110.44.127.109:8081/viatv/viapogo/playlist.m3u8
+#EXTINF:-1 tvg-id="NickIndia" tvg-name="Nick India" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nick_India.jpg" group-title="Kids",Nick India
+http://110.44.127.109:8081/viatv/vianick/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Disney_Junior.jpg" group-title="Kids",Disney Junior
+http://110.44.127.109:8081/viatv/viadisneyjunior/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Disney_Channel.jpg" group-title="Kids",Disney Channel
+http://110.44.127.109:8081/viatv/viaDisneyChannel1500.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Discovery_Kids.jpg" group-title="Kids",Discovery Kids
+http://110.44.127.109:8081/viatv/viadiscoverykids/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonSonic" tvg-name="Nickelodeon Sonic" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Nickelodeon_Sonic.jpg" group-title="Kids",Nickelodeon Sonic
+http://110.44.127.109:8081/viatv/viaSonicSd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Hungama.jpg" group-title="Kids",Hungama
+http://110.44.127.109:8081/viatv/viaHungamaTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KidZone" tvg-name="Kid Zone" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kid_Zone.png" group-title="Kids",Kid Zone
+http://110.44.127.109:8081/viatv/viaKidsZone/playlist.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel" tvg-name="Kartoon Channel" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Kartoon_Channel.png" group-title="Kids",Kartoon Channel
+http://110.44.127.109:8081/viatv/viaKartoonChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="&FlixHD" tvg-name="& Flix HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/&_Flix_HD.png" group-title="Movies",& Flix HD
+http://110.44.127.109:8081/viatv/viaFlixHD/playlist.m3u8
+#EXTINF:-1 tvg-id="StarMoviesHD" tvg-name="Star Movies HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Movies_HD.jpg" group-title="Movies",Star Movies HD
+http://110.44.127.109:8081/viatv/viaStarMoviesHd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelectHD" tvg-name="Star Movies Select HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Movies_Select_HD.jpg" group-title="Movies",Star Movies Select HD
+http://110.44.127.109:8081/viatv/viaStarMovSelectHd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="&PriveHD" tvg-name="& Prive HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/&_Prive_HD.png" group-title="Movies",& Prive HD
+http://110.44.127.109:8081/viatv/viaPriveHD/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMaxHD" tvg-name="Sony Max HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Max_HD.png" group-title="Movies",Sony Max HD
+http://110.44.127.109:8081/viatv/viasonymaxhd/playlist.m3u8
+#EXTINF:-1 tvg-id="COLORSCINEPLEXHD" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/COLORS_CINEPLEX_HD.jpg" group-title="Movies",COLORS CINEPLEX HD
+http://110.44.127.109:8081/viatv/viacineplexhd/playlist.m3u8
+#EXTINF:-1 tvg-id="&PicturesHD" tvg-name="& Pictures HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/&_Pictures_HD.jpg" group-title="Movies",& Pictures HD
+http://110.44.127.109:8081/viatv/viaandpicture/playlist.m3u8
+#EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Gold_HD.jpg" group-title="Movies",Star Gold HD
+http://110.44.127.109:8081/viatv/viastargoldhd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEECINEMAHD" tvg-name="ZEE CINEMA HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ZEE_CINEMA_HD.jpg" group-title="Movies",ZEE CINEMA HD
+http://110.44.127.109:8081/viatv/viazeecinemahd/playlist.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelectHD" tvg-name="Star Gold Select HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Gold_Select_HD.jpg" group-title="Movies",Star Gold Select HD
+http://110.44.127.109:8081/viatv/viastargoldselecthd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMax2" tvg-name="Sony Max 2" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Max_2.png" group-title="Movies",Sony Max 2
+http://110.44.127.109:8081/viatv/viamaxtwo/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood" tvg-name="Zee Bollywood" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_Bollywood.jpg" group-title="Movies",Zee Bollywood
+http://110.44.127.109:8081/viatv/viazeecinema/playlist.m3u8
+#EXTINF:-1 tvg-id="LotusMacauHD" tvg-name="Lotus Macau HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Lotus_Macau_HD.jpg" group-title="Movies",Lotus Macau HD
+http://110.44.127.109:8081/viatv/vialotusmacau/playlist.m3u8
+#EXTINF:-1 tvg-id="Dangal2" tvg-name="Dangal 2" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Dangal_2.png" group-title="Movies",Dangal 2
+http://110.44.127.109:8081/viatv/Dangal2/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UKadak" tvg-name="B4U Kadak" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/B4U_Kadak.png" group-title="Movies",B4U Kadak
+http://110.44.127.109:8081/viatv/viab4ukadak/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooBollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Shemaroo_Bollywood.png" group-title="Movies",Shemaroo Bollywood
+http://110.44.127.109:8081/viatv/viaShemarooBollywood/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies" tvg-name="Goldmines Movies" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Goldmines_Movies.jpg" group-title="Movies",Goldmines Movies
+http://110.44.127.109:8081/viatv/Goldmines/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood" tvg-name="Goldmines Bollywood" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Goldmines_Bollywood.png" group-title="Movies",Goldmines Bollywood
+http://110.44.127.109:8081/viatv/GoldmineBollywood/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri" tvg-name="B4U Bhojpuri" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/B4U_Bhojpuri.jpg" group-title="Movies",B4U Bhojpuri
+http://110.44.127.109:8081/viatv/viab4ubhojpuri/playlist.m3u8
+#EXTINF:-1 tvg-id="MoviePlus" tvg-name="Movie Plus" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Movie_Plus.png" group-title="Movies",Movie Plus
+http://110.44.127.109:8081/viatv/viaMoviesPlus/playlist.m3u8
+#EXTINF:-1 tvg-id="StarUtsavMovies" tvg-name="Star Utsav Movies" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Star_Utsav_Movies.png" group-title="Movies",Star Utsav Movies
+http://110.44.127.109:8081/viatv/viastarutsav/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyWah" tvg-name="Sony Wah" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Wah.png" group-title="Movies",Sony Wah
+http://110.44.127.109:8081/viatv/SonyWah/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMovies" tvg-name="B4U Movies" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/B4u_Movie.jpg" group-title="Movies",B4U Movies
+http://110.44.127.109:8081/viatv/viab4umovies/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmolCinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_Anmol_Cinema.jpg" group-title="Movies",Zee Anmol Cinema
+http://110.44.127.109:8081/viatv/ZeeAnmolC1/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmolCinema2" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zee_Anmol_Cinema_2.png" group-title="Movies",Zee Anmol Cinema 2
+http://110.44.127.109:8081/viatv/ZeeAnmolC2/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Colors_Cineplex_Bollywood.jpg" group-title="Movies",Colors Cineplex Bollywood
+http://110.44.127.109:8081/viatv/viaCineplexBollywood/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits" tvg-name="Colors Cineplex Superhits" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Colors_Cineplex_Superhits.jpg" group-title="Movies",Colors Cineplex Superhits
+http://110.44.127.109:8081/viatv/viaColorsCineSuperhit/playlist.m3u8
+#EXTINF:-1 tvg-id="ACTIONCINEMA" tvg-name="ACTION CINEMA" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ACTION_CINEMA.png" group-title="Movies",ACTION CINEMA
+http://110.44.127.109:8081/viatv/viaActionCinema/playlist.m3u8
+#EXTINF:-1 tvg-id="MN+HD" tvg-name="MN+ HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/MN+_HD.png" group-title="Movies",MN+ HD
+http://110.44.127.109:8081/viatv/viaMNPlusHD/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyPixHD" tvg-name="Sony Pix HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_Pix_HD.png" group-title="Movies",Sony Pix HD
+http://110.44.127.109:8081/viatv/SonyPixHD/playlist.m3u8
+#EXTINF:-1 tvg-id="OscarMocies" tvg-name="Oscar Mocies" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Oscar_Mocies.png" group-title="Movies",Oscar Mocies
+http://110.44.127.109:8081/viatv/OscarMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmangPlus" tvg-name="Shemaroo Umang Plus" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Shemaroo_Umang_Plus.png" group-title="Movies",Shemaroo Umang Plus
+http://110.44.127.109:8081/viatv/ShemarooUmang/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetHD" tvg-name="Animal Planet HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Animal_Planet_HD.jpg" group-title="Adventures",Animal Planet HD
+http://110.44.127.109:8081/viatv/viaanimalplanet/playlist.m3u8
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICCHANNELHD" tvg-name="NATIONAL GEOGRAPHIC CHANNEL HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NATIONAL_GEOGRAPHIC_CHANNEL_HD.jpg" group-title="Adventures",NATIONAL GEOGRAPHIC CHANNEL HD
+http://110.44.127.109:8081/viatv/viangchd/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="Discovery HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Discovery_HD.jpg" group-title="Adventures",Discovery HD
+http://110.44.127.109:8081/viatv/viadiscoveryhd/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Discovery_Science.jpg" group-title="Adventures",Discovery Science
+http://110.44.127.109:8081/viatv/viaDisScience.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarthHD" tvg-name="Sony BBC Earth HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sony_BBC_Earth_HD.png" group-title="Adventures",Sony BBC Earth HD
+http://110.44.127.109:8081/viatv/viasonybbchd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentaryHD" tvg-name="CGTN Documentary HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CGTN_Documentry_HD.jpg" group-title="Adventures",CGTN Documentary HD
+http://110.44.127.109:8081/viatv/viacgtndoc/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18HD" tvg-name="History TV 18 HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/History_TV_18_HD.jpg" group-title="Adventures",History TV 18 HD
+http://110.44.127.109:8081/viatv/viahistorytv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Discovery_Turbo.jpg" group-title="Adventures",Discovery Turbo
+http://110.44.127.109:8081/viatv/viaturbo/playlist.m3u8
+#EXTINF:-1 tvg-id="TLCIndia" tvg-name="TLC India" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TLC_India.jpg" group-title="Adventures",TLC India
+http://110.44.127.109:8081/viatv/viatlcindia/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetSD" tvg-name="Animal Planet SD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Animal_Planet_SD.png" group-title="Adventures",Animal Planet SD
+http://110.44.127.109:8081/viatv/viaAnimalplanetSD/playlist.m3u8
+#EXTINF:-1 tvg-id="JMusicHD" tvg-name="J Music HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/J_Music_HD.png" group-title="Music",J Music HD
+http://110.44.127.109:8081/viatv/viajmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/MTV.png" group-title="Music",MTV
+http://110.44.127.109:8081/viatv/viamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACE URBAN" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TRACE_URBAN.png" group-title="Music",TRACE URBAN
+http://110.44.127.109:8081/viatv/viatraceurban/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane" tvg-name="Shemaroo Filmi Gaane" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Shemaroo_Filmi_Gaane.png" group-title="Music",Shemaroo Filmi Gaane
+http://110.44.127.109:8081/viatv/ShemarooGana/playlist.m3u8
+#EXTINF:-1 tvg-id="ZoomMusic" tvg-name="Zoom Music" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Zoom_Music.jpg" group-title="Music",Zoom Music
+http://110.44.127.109:8081/viatv/viazoom/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicIndia" tvg-name="Music India" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Music_India.png" group-title="Music",Music India
+http://110.44.127.109:8081/viatv/MusicIndia/playlist.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sangeet_Bangla.png" group-title="Music",Sangeet Bangla
+http://110.44.127.109:8081/viatv/SangeetBangla/playlist.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri" tvg-name="Sangeet Bhojpuri" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Sangeet_Bhojpuri.jpg" group-title="Music",Sangeet Bhojpuri
+http://110.44.127.109:8081/viatv/SangeetBhojpuri/playlist.m3u8
+#EXTINF:-1 tvg-id="9XM" tvg-name="9XM" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/9XM.png" group-title="Music",9XM
+http://110.44.127.109:8081/viatv/via9xm/playlist.m3u8
+#EXTINF:-1 tvg-id="Bindass" tvg-name="Bindass" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bindass.png" group-title="Music",Bindass
+http://110.44.127.109:8081/viatv/Bindass/playlist.m3u8
+#EXTINF:-1 tvg-id="Dabaang" tvg-name="Dabaang" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Dabaang.jpg" group-title="Music",Dabaang
+http://110.44.127.109:8081/viatv/viadabangg/playlist.m3u8
+#EXTINF:-1 tvg-id="9XJalwa" tvg-name="9X Jalwa" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/9X_Jalwa.jpg" group-title="Music",9X Jalwa
+http://110.44.127.109:8081/viatv/via9xjalwa/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMusic" tvg-name="B4U Music" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/B4U_Music.jpg" group-title="Music",B4U Music
+http://110.44.127.109:8081/viatv/viab4umusic/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UHitz" tvg-name="B4U Hitz" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/B4U_Hitz.jpg" group-title="Music",B4U Hitz
+http://110.44.127.109:8081/viatv/viab4uhits/playlist.m3u8
+#EXTINF:-1 tvg-id="BalleBalle" tvg-name="Balle Balle" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Balle_Balle.jpg" group-title="Music",Balle Balle
+http://110.44.127.109:8081/viatv/viaballeballe/playlist.m3u8
+#EXTINF:-1 tvg-id="YRFMusic" tvg-name="YRF Music" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/YRF_Music.png" group-title="Music",YRF Music
+http://110.44.127.109:8081/viatv/YRF/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCPUNJABI" tvg-name="PTC PUNJABI" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/PTC_PUNJABI.png" group-title="Music",PTC PUNJABI
+http://110.44.127.109:8081/viatv/PTCPunjabi/playlist.m3u8
+#EXTINF:-1 tvg-id="9xTashan" tvg-name="9x Tashan" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/9x_Tashan.jpg" group-title="Music",9x Tashan
+http://110.44.127.109:8081/viatv/via9xtashan/playlist.m3u8
+#EXTINF:-1 tvg-id="BhaktiDarshan" tvg-name="Bhakti Darshan" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Bhakti_Darshan.jpg" group-title="Spiritual & Life",Bhakti Darshan
+http://110.44.127.109:8081/viatv/viabhaktidarsan/playlist.m3u8
+#EXTINF:-1 tvg-id="DIVYADARSHANHD" tvg-name="DIVYA DARSHAN HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DIVYA_DARSHAN_HD.jpg" group-title="Spiritual & Life",DIVYA DARSHAN HD
+http://110.44.127.109:8081/viatv/viadibyadarsan/playlist.m3u8
+#EXTINF:-1 tvg-id="DeepTVHD" tvg-name="Deep TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Deep_TV_HD.jpg" group-title="Spiritual & Life",Deep TV HD
+http://110.44.127.109:8081/viatv/viaDeepTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DharmaTVHD" tvg-name="Dharma TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Dharma_TV_HD.jpg" group-title="Spiritual & Life",Dharma TV HD
+http://110.44.127.109:8081/viatv/viaDharmaTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Aastha" tvg-name="Aastha" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Aastha.png" group-title="Spiritual & Life",Aastha
+http://110.44.127.109:8081/viatv/viaaastha/playlist.m3u8
+#EXTINF:-1 tvg-id="MadaniChannel" tvg-name="Madani Channel" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Madani_Channel.jpg" group-title="Spiritual & Life",Madani Channel
+http://110.44.127.109:8081/viatv/viamadani/playlist.m3u8
+#EXTINF:-1 tvg-id="DAYSTAR" tvg-name="DAYSTAR" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DAYSTAR.jpg" group-title="Spiritual & Life",DAYSTAR
+http://110.44.127.109:8081/viatv/viadaystar/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVHD" tvg-name="Angel TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Angel_TV_HD.jpg" group-title="Spiritual & Life",Angel TV HD
+http://110.44.127.109:8081/viatv/viaangel/playlist.m3u8
+#EXTINF:-1 tvg-id="PeaceofMind" tvg-name="Peace of Mind" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Peace_of_Mind.jpg" group-title="Spiritual & Life",Peace of Mind
+http://110.44.127.109:8081/viatv/viapeaceofmind/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaNepal" tvg-name="Aastha Nepal" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Aastha_Nepal.png" group-title="Spiritual & Life",Aastha Nepal
+http://110.44.127.109:8081/viatv/viaAasthaNepal/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldHD" tvg-name="NHK World HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NHK_World_HD.jpg" group-title="International",NHK World HD
+http://110.44.127.109:8081/viatv/vianhk/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKPremuimHD" tvg-name="NHK Premuim HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/NHK_Premuim_HD.jpg" group-title="International",NHK Premuim HD
+http://110.44.127.109:8081/viatv/vianhkpremium/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTVHD" tvg-name="Arirang TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Arirang.jpg" group-title="International",Arirang TV HD
+http://110.44.127.109:8081/viatv/viaarirang/playlist.m3u8
+#EXTINF:-1 tvg-id="DW-TV" tvg-name="DW-TV" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/DW-TV.jpg" group-title="International",DW-TV
+http://110.44.127.109:8081/viatv/viadwtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternational" tvg-name="TVE International" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TVE_International.jpg" group-title="International",TVE International
+http://110.44.127.109:8081/viatv/viatve/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 MONDE" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/TV_5_MONDE.jpg" group-title="International",TV 5 MONDE
+http://110.44.127.109:8081/viatv/viatv5monde/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVHD" tvg-name="Fashion TV HD" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Fashion_TV_HD.jpg" group-title="International",Fashion TV HD
+http://110.44.127.109:8081/viatv/viafashion/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSKOREA" tvg-name="KBS KOREA" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/KBS_KOREA.jpg" group-title="International",KBS KOREA
+http://110.44.127.109:8081/viatv/viakbs/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CCTV11.png" group-title="International",CCTV11
+http://110.44.127.109:8081/viatv/viaCCTV11.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CCTV12.png" group-title="International",CCTV12
+http://110.44.127.109:8081/viatv/viaCCTV12.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/CCTV15.png" group-title="International",CCTV15
+http://110.44.127.109:8081/viatv/viaCCTV15.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC Australia" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/ABC_Australia.jpg" group-title="International",ABC Australia
+http://110.44.127.109:8081/viatv/ABCAustralia/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP" tvg-name="TravelXP" tvg-logo="https://ott1.viatv.com.np//images/channel/logo/Travelxp_HD.png" group-title="International",TravelXP
+http://110.44.127.109:8081/viatv/TravelXP/playlist.m3u8
